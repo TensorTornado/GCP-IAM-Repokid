@@ -1,0 +1,10 @@
+{
+    "title": "Custom Storage Viewer",
+    "description": "Role to view objects in storage buckets",
+    "includedPermissions": [
+      "storage.objects.get",
+      "storage.objects.list"
+    ],
+    "stage": "GA"
+  }
+  

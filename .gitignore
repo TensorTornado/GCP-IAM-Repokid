@@ -1,0 +1,46 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directories
+env/
+venv/
+test_env/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# CSV reports
+*.csv
+
+# macOS system files
+.DS_Store
+
+# Packages
+*.whl
+*.egg-info/
+dist/
+build/
+GCP-IAM-Repokid/
+
+# Ignore .whl files
+*.whl
+
+# Ignore requirements.txt
+requirements.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment directories
+venv/
+env/
+.env/
+
+# Ignore other unwanted files
+*.log
